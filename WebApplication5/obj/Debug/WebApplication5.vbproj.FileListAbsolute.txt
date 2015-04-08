@@ -1,0 +1,9 @@
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\bin\WebApplication5.xml
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.xml
+c:\users\larry\documents\visual studio 2013\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
